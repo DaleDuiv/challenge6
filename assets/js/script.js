@@ -20,7 +20,7 @@ function titleCase(str) {
 }
 
 function loadSearchHistory() {
-    const searchHistoryArray = JSON.parse(localStorage.getItem('search history'));
+    let searchHistoryArray = JSON.parse(localStorage.getItem('search history'));
 
     if (!searchHistoryArray) {
         searchHistoryArray = {
