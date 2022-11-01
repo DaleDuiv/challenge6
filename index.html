@@ -10,27 +10,21 @@
 </head>
 
 <body>
-    <!-- header -->
     <header class="heading">Weather Dashboard</header>
 
     <main id='container' class="container">
         <div class="row">
-            <!-- search city area -->
             <div class="col1">
                 <div id='search-area'>
                     <h1 class='h1'>Search for a City:</h1>
                     <form id='city-search'>
-                        <input name='city' type="text" placeholder="Enter a city" id='city' autofocus='true'
-                            class='city-input' />
+                        <input name='city' type="text" placeholder="Enter a city" id='city' autofocus='true' class='city-input' />
                         <button type="submit" id='search-btn' class='btn'>Search</button>
                     </form>
-                    <!-- line break -->
                     <hr>
-                    <!-- div that holds cities already searched in local storage -->
                     <div id="search-history"></div>
                 </div>
             </div>
-            <!-- container that holds the current weather and 5 day forecast -->
             <div class="col2">
                 <div id='five-day' class='row spacebetween'></div>
             </div>
