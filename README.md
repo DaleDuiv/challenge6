@@ -42,13 +42,16 @@ N/A
 
 ## Usage
 
+![Alt text](./assets/images/screenshot.png)
 
-alt text https://daleduiv.github.io/challenge6/
+https://daleduiv.github.io/challenge6/
 
 ## Credits
 https://www.youtube.com/watch?v=Ef4IogzEsFU
 https://adelaide.bootcampcontent.com/the-university-of-adelaide/UADEL-VIRT-FSF-PT-08-2022-U-LOLC/-/tree/main/05-Third-Party-APIs/01-Activities/01-Ins_jQuery-Elements
 https://adelaide.bootcampcontent.com/the-university-of-adelaide/UADEL-VIRT-FSF-PT-08-2022-U-LOLC/-/tree/main/05-Third-Party-APIs/01-Activities/02-Stu_jQuery-Elements
+https://openweathermap.org/api
+https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys
 ## License
 None
 
